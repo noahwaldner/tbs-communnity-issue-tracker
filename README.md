@@ -1,2 +1,2 @@
-# Issue Tracker for TBS Kodiak
+# Issue Tracker for TBS Community
 
